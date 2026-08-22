@@ -56,9 +56,9 @@ module.exports = {
     nodes: [
       {
         name: "Main Node",
-        host: "lavalinkv4.serenetia.com",
-        port: 80,
-        password: "https://seretia.link/discord",
+        host: "free-lava.heavencloud.in",
+        port: 4000,
+        password: "heavencloud.in",
         secure: false
       }
     ]
